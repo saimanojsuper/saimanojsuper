@@ -89,7 +89,7 @@
 
 ## Github Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanojsuper&show_icons=true&locale=en&layout=compact" alt="saimanojsuper" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanojsuper&hide=Jupyter%20Notebook&show_icons=true&locale=en&layout=compact" alt="saimanojsuper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimanojsuper&show_icons=true&locale=en" alt="saimanojsuper" /></p>
 
