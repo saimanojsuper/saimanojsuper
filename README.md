@@ -4,11 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimanojsuper" alt="saimanojsuper" /></a> </p>
   
 
-<!--- - 👯 Checkout my portfolio website <a href="https://saimanojsuper.github.io/"/>here </a> </h3> -->
+ - 👯 Checkout my portfolio website <a href="https://saimanojsuper.github.io/"/>here </a> </h3>
 
-  
-
-<!--- - 📙 I regularly write articles on [medium](https://saimanojsuper.medium.com/)  -->
   
 
 - 📫 How to reach me saimanoj.napa@gmail.com  
@@ -20,7 +17,14 @@
 - ❓ Ask me about anything related to Java, React, System Design, Designing Systems using LLM, Semantic Searching and related technologies  
   
 
-- ⚡ Fun fact: Like to tease LLM models with vague questions  
+- ⚡ Fun fact: Like to tease LLM models with vague questions
+
+  
+### Latest Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [GenAI Basics](https://www.linkedin.com/pulse/genai-basics-sai-manoj-napa-nys8c)
+- [Machine Learning Model For Electricity Prediction](https://www.linkedin.com/pulse/electricity-consumption-prediction-model-sai-manoj/)
+<!-- BLOG-POST-LIST:END -->
 
 
 
